@@ -43,6 +43,11 @@
     methods: {
       toggleTheme() {
         this.theme = this.theme === "theme-light" ? "theme-dark" : "theme-light";
+        // Pour stocker et enregistrer dans le DOM du site une fois en ligne les préférences de theme
+        if (typeof window !== 'undefined') {
+          localStorage.setItem('theme', this.theme)
+        }
+
       }
     },
     components: {NavBarre, NavFooter,},
