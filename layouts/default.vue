@@ -11,8 +11,11 @@
 
 <!--    ================ This component are only for the test. This button work correctly ================ -->
     <header class="p-6 border-yellow-500 border-2 rounded items-center flex justify-center">
+      <a>debogage element -> </a>
+
       <div class="text-center  text-red-700 p-2 bg-red-500 items-center justify-center leading-none lg:rounded-full flex lg:inline-flex"
            role="alert">
+
         <a class=" flex rounded-full bg-background-primary uppercase justify-center px-2 py-1 text-xs font-bold "
            @click.prevent="toggleTheme">
           <picture v-if="theme === 'theme-light'"><img class="m-2 h-8 w-8" src="../assets/img/logo_light_mod.svg"></picture>
