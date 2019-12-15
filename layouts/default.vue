@@ -10,10 +10,10 @@
     <NavFooter/>
 
 <!--    ================ This component are only for the test. This button work correctly ================ -->
-    <header class="p-6 border-yellow-500 border-2 rounded items-center flex justify-center">
+    <header class="p-6 border-border-color-primary border-2 rounded items-center flex justify-center">
       <a>debogage element -> </a>
 
-      <div class="text-center  text-red-700 p-2 bg-red-500 items-center justify-center leading-none lg:rounded-full flex lg:inline-flex"
+      <div class="text-center   p-2 bg-red-500 items-center justify-center leading-none lg:rounded-full flex lg:inline-flex"
            role="alert">
 
         <a class=" flex rounded-full bg-background-primary uppercase justify-center px-2 py-1 text-xs font-bold "

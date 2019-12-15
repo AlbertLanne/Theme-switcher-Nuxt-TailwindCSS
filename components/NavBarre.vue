@@ -1,15 +1,16 @@
 <template>
-  <header class="items-baseline bg-background-tertiary flex">
+  <header class=" bg-background-tertiary flex">
 <!--here i would like to add a button to switch the theme-->
 
-
-
     <div class=" mx-6 justify-start ">
-             <h1 class="m-3 my-6 text">Website prototype </h1>
+             <h1 class="m-3 my-6 text">❤ Website prototype ❤</h1>
                <p> --nav barre--</p>
     </div>
 
-
+<div class="flex justify-end items-center">
+<button class=" mx-2 border-2 rounded border-border-color-primary">
+  <p class="p-2">ButtonOne</p></button>
+</div>
 
   </header>
 </template>
