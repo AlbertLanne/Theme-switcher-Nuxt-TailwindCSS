@@ -9,25 +9,9 @@
     <nuxt/>
     <NavFooter/>
 
-<!--    ================ This component are only for the test. This button work correctly ================ -->
-    <header class="p-6 border-border-color-primary border-2 rounded items-center flex justify-center">
-      <a>debogage element -> </a>
-
-      <div class="text-center   p-2 bg-red-500 items-center justify-center leading-none lg:rounded-full flex lg:inline-flex"
-           role="alert">
-
-        <a class=" flex rounded-full bg-background-primary uppercase justify-center px-2 py-1 text-xs font-bold "
-           @click.prevent="toggleTheme">
-          <picture v-if="theme === 'theme-light'"><img class="m-2 h-8 w-8" src="../assets/img/logo_light_mod.svg"></picture>
-          <picture v-else="theme === 'theme-light'"> <img class="m-2 h-8 w-8" src="../assets/img/logo_dark_mod.svg"> </picture>
-        </a>
-      </div>
-    </header>
-<!--   ======================================================================================================= -->
 
   </div>
 </template>
-
 
 <script>
 
@@ -35,28 +19,21 @@
   import NavBarre from "~/components/NavBarre.vue";
 
   export default {
-    data() {
-      return {
-        theme: "theme-dark"
-      };
-    },
-    methods: {
-      toggleTheme() {
-        this.theme = this.theme === "theme-light" ? "theme-dark" : "theme-light";
-        // Pour stocker et enregistrer dans le DOM du site une fois en ligne les préférences de theme
-        if (typeof window !== 'undefined') {
-          localStorage.setItem('theme', this.theme)
-        }
-
+    // https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/seo-vue-meta
+    // data() {
+    //     return {
+    //         theme: this.$store.state.theme,
+    //     };
+    // },
+    computed:{
+      theme(){
+        return this.$store.state.theme;
       }
     },
-    components: {NavBarre, NavFooter,},
+    components: {NavFooter, NavBarre, }
 
   };
 </script>
-
-
-
 
 
 
