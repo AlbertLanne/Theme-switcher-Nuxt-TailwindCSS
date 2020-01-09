@@ -1,6 +1,7 @@
 # ThemeJS_TailwindCSS_NuxtJS
 
 > Prototype of global theme changer make in single js file
+> An homemade extension of the Andre Madarang dark mode theme switcher ytb tutorial to make the same theme global on all components and pages.
 ## Important information
 
 i would like to make the toggletheme  methode of default.vue  global.
