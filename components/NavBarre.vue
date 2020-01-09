@@ -1,10 +1,8 @@
 <template>
   <header class="flex flex-wrap items-center justify-between align-baseline bg-background-tertiary  w-full">
-
     <div class=" mx-6 justify-start mx-2 border-2 border-dotted rounded border-border-color-primary">
       <h1 class="m-3 my-6 text">❤ Website prototype ❤</h1>
     </div>
-
     <div class="flex justify-end ">
       <div class="mx-12">
         <picture @click.prevent="toggleTheme" class="mx-2 mr-6 cursor-pointer"
@@ -24,16 +22,10 @@
         </picture>
       </div>
     </div>
-
-    <!--BOUTTON POUR CHANGER LE THEME ICI-->
-
   </header>
 </template>
 
 <script>
-
-  // import {state} from "../store/index"
-  // export var theme = $store.state.theme ;
 
   export default {
     name: "NavBarre",

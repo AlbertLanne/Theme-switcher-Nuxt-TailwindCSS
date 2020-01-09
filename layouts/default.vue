@@ -1,7 +1,9 @@
 <template>
+
+<!--  It's here the declaration of the class theme so we import the variable here-->
+
   <div class="min-h-screen flex flex-col bg-background-primary
               text-copy-primary" :class="theme">
-
     <div class="flex-grow">
       <NavBarre/>
       <nuxt/>
