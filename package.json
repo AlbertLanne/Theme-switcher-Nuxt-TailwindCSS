@@ -1,7 +1,7 @@
 {
   "name": "ThemeJS_TailwindCSS_NuxtJS",
   "version": "1.0.0",
-  "description": "Prototype of global theme changer make in single js file",
+  "description": "Homemade prototype of global theme-changer with vuex",
   "author": "AlbertLanne",
   "private": true,
   "scripts": {

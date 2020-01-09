@@ -8,6 +8,7 @@
 
     <NavBarre/>
     <nuxt/>
+
 </div>
     <NavFooter/>
 
