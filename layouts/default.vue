@@ -1,12 +1,14 @@
 <template>
-  <div class="bg-background-primary text-copy-primary" :class="theme">
+  <div class="min-h-screen flex flex-col bg-background-primary
+              text-copy-primary" :class="theme">
 
 
 
-
+<div class="flex-grow">
 
     <NavBarre/>
     <nuxt/>
+</div>
     <NavFooter/>
 
 
