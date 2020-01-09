@@ -15,7 +15,6 @@ module.exports = {
         primary: 'var(--bg-background-primary)',
         secondary: 'var(--bg-background-secondary)',
         tertiary: 'var(--bg-background-tertiary)',
-        // button: 'var(--border-color-primary)',
 
         form: 'var(--bg-background-form)',
       },

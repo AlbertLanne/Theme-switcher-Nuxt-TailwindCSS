@@ -1,5 +1,5 @@
 {
-  "name": "ThemeJS_TailwindCSS_NuxtJS",
+  "name": "ThemeSwitcher_TailwindCSS_NuxtJS",
   "version": "1.0.0",
   "description": "Homemade prototype of global theme-changer with vuex",
   "author": "AlbertLanne",

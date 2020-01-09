@@ -3,25 +3,17 @@
 @import 'tailwindcss/utilities';
 
 
-
-
+/*  need to be setup into tailwind.config.js if you add some new custom color */
 .theme-light {
   --bg-background-primary: #d6e8ee;
   --bg-background-secondary: #dcf7f9;
   --bg-background-tertiary: #badcd6;
-  /*--bg-background-tertiary: #adf2e2;*/
 
-
-  /*--border-border-color-primary:  #1a202c;*/
-
-  /*--bg-background-button: #e4f5ef;*/
-  --bg-background-button-clicked: #bad0ea;
-
+  --bg-background-clicked: #bad0ea;
 
   --text-copy-primary: #0a0a0a;
   --text-copy-secondary: #2b313c;
 
-  /*Couleur contour bouton*/
   --border-border-color-primary:  #1a202c;
 }
 .theme-dark {
@@ -29,11 +21,10 @@
   --bg-background-secondary: #202c39;
   --bg-background-tertiary: #263443;
 
-  /*--bg-background-button: #2c3e50;*/
   --bg-background-button-clicked: #4f6f7f;
 
-  --text-copy-primary: #cbd5e0;
-  --text-copy-secondary: #7e8286;
+  --text-copy-primary: #fbfff0;
+  --text-copy-secondary: #cbd5e0;
 
   --border-border-color-primary: white;
 
