@@ -12,7 +12,6 @@
 #### An homemade extension of the Andre Madarang dark mode theme switcher ytb tutorial to make the same theme global on all components and pages.This project work with a vueX store.
 
 ![Alt text](./static/theme_switcher.svg)
-<img src="./static/theme_switcher.svg">
 
 
 
