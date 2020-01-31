@@ -5,13 +5,14 @@
 # ThemeJS_TailwindCSS_NuxtJS
 
 ---
-![Alt Text](https://i.imgur.com/KFmqQZG.gif)
+![Alt Text](https://i.imgur.com/z5JWZ1J.gif)
 
 ---
 ### Prototype of global theme changer make in single js file
 #### An homemade extension of the Andre Madarang dark mode theme switcher ytb tutorial to make the same theme global on all components and pages.This project work with a vueX store.
 
-
+![Alt text](./static/theme_switcher.svg)
+<img src="./static/theme_switcher.svg">
 
 
 

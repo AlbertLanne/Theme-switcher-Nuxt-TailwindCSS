@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="508.75px" preserveAspectRatio="none" style="width:571px;height:508px;" version="1.1" viewBox="0 0 571 508" width="571.25px" zoomAndPan="magnify"><defs><filter height="300%" id="f1jnk031idlk41" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.5"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[6f18716841b27eb23192552fde06b059]
+cluster Theme-switcher-Nuxt-TailwindCSS--><rect fill="#FFFFFF" filter="url(#f1jnk031idlk41)" height="465" style="stroke: #000000; stroke-width: 1.875;" width="532.5" x="17.5" y="30"/><polygon fill="#FFFFFF" points="528.75,36.25,528.75,53.75,543.75,53.75,543.75,43.75,536.25,36.25,528.75,36.25" style="stroke: #000000; stroke-width: 1.875;"/><line style="stroke: #000000; stroke-width: 1.875;" x1="536.25" x2="536.25" y1="36.25" y2="43.75"/><line style="stroke: #000000; stroke-width: 1.875;" x1="543.75" x2="536.25" y1="43.75" y2="43.75"/><text fill="#000000" font-family="sans-serif" font-size="31.25" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="512.5" x="27.5" y="64.9402">Theme-switcher-Nuxt-TailwindCSS</text><!--MD5=[39383e889102cdcfc89331273c2f8a06]
+cluster Front end--><rect fill="#FFFFFF" filter="url(#f1jnk031idlk41)" height="362.5" style="stroke: #000000; stroke-width: 1.875;" width="208.75" x="76.25" y="102.5"/><polygon fill="#FFFFFF" points="263.75,108.75,263.75,126.25,278.75,126.25,278.75,116.25,271.25,108.75,263.75,108.75" style="stroke: #000000; stroke-width: 1.875;"/><line style="stroke: #000000; stroke-width: 1.875;" x1="271.25" x2="271.25" y1="108.75" y2="116.25"/><line style="stroke: #000000; stroke-width: 1.875;" x1="278.75" x2="271.25" y1="116.25" y2="116.25"/><text fill="#000000" font-family="sans-serif" font-size="31.25" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="142.5" x="109.375" y="137.4402">Front end</text><!--MD5=[c23849cc5f4a85746a20de4317c530fc]
+cluster store--><polygon fill="#FFFFFF" filter="url(#f1jnk031idlk41)" points="320,216.25,332.5,203.75,491.25,203.75,491.25,345,478.75,357.5,320,357.5,320,216.25" style="stroke: #000000; stroke-width: 1.875;"/><line style="stroke: #000000; stroke-width: 1.875;" x1="478.75" x2="490" y1="216.25" y2="205"/><line style="stroke: #000000; stroke-width: 1.875;" x1="320" x2="478.75" y1="216.25" y2="216.25"/><line style="stroke: #000000; stroke-width: 1.875;" x1="478.75" x2="478.75" y1="216.25" y2="357.5"/><text fill="#000000" font-family="sans-serif" font-size="31.25" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76.25" x="362.5" y="252.4402">store</text><!--MD5=[8992e4567502d6d9423943089345738e]
+entity NavBarre--><polygon fill="#FFFFFF" filter="url(#f1jnk031idlk41)" points="103.125,165.625,103.125,229.9316,258.125,229.9316,258.125,178.125,245.625,165.625,103.125,165.625" style="stroke: #000000; stroke-width: 1.875;"/><path d="M245.625,165.625 L245.625,178.125 L258.125,178.125 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.875;"/><text fill="#000000" font-family="sans-serif" font-size="31.25" lengthAdjust="spacingAndGlyphs" textLength="130" x="115.625" y="210.5652">NavBarre</text><!--MD5=[0318cdc3d8d1f8c72a10101cc19da723]
+entity pageX--><polygon fill="#FFFFFF" filter="url(#f1jnk031idlk41)" points="122.5,273.125,122.5,337.4316,238.75,337.4316,238.75,285.625,226.25,273.125,122.5,273.125" style="stroke: #000000; stroke-width: 1.875;"/><path d="M226.25,273.125 L226.25,285.625 L238.75,285.625 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.875;"/><text fill="#000000" font-family="sans-serif" font-size="31.25" lengthAdjust="spacingAndGlyphs" textLength="91.25" x="135" y="318.0652">pageX</text><!--MD5=[d2b71f87e4046f1a9cb42b7678e5a593]
+entity NavFooter--><polygon fill="#FFFFFF" filter="url(#f1jnk031idlk41)" points="96.25,380.625,96.25,444.9316,265,444.9316,265,393.125,252.5,380.625,96.25,380.625" style="stroke: #000000; stroke-width: 1.875;"/><path d="M252.5,380.625 L252.5,393.125 L265,393.125 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.875;"/><text fill="#000000" font-family="sans-serif" font-size="31.25" lengthAdjust="spacingAndGlyphs" textLength="143.75" x="108.75" y="425.5652">NavFooter</text><!--MD5=[717cda9951f396eab3faa274a4be74f0]
+entity index.js--><polygon fill="#FFFFFF" filter="url(#f1jnk031idlk41)" points="340,273.125,340,337.4316,471.25,337.4316,471.25,285.625,458.75,273.125,340,273.125" style="stroke: #000000; stroke-width: 1.875;"/><path d="M458.75,273.125 L458.75,285.625 L471.25,285.625 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.875;"/><text fill="#000000" font-family="sans-serif" font-size="31.25" lengthAdjust="spacingAndGlyphs" textLength="106.25" x="352.5" y="318.0652">index.js</text><!--MD5=[078a5d98cfaaadd90adb5d052f741fde]
+link NavBarre to index.js--><path d="M263.0803,235.9258 C263.0803,235.9258 285.135,246.4825 295,251.25 C304.7275,255.9513 314.9263,260.915 325.02,265.85 " fill="none" id="NavBarre-index.js" style="stroke: #A80036; stroke-width: 1.25;"/><polygon fill="#A80036" points="339.6688,273.0263,331.7652,263.5871,334.056,270.2769,327.3662,272.5676,339.6688,273.0263" style="stroke: #A80036; stroke-width: 1.25;"/><line style="stroke: #A80036; stroke-width: 1.25;" x1="334.056" x2="325.0756" y1="270.2769" y2="265.8775"/><polygon fill="#A80036" points="249.54,229.4713,254.1586,237.2119,263.0803,235.9258,258.4616,228.1851,249.54,229.4713" style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[897761b1530251976b48e2cc73163d0c]
+link NavFooter to index.js--><path d="M263.0803,374.0742 C263.0803,374.0742 285.135,363.5175 295,358.75 C304.7275,354.0488 314.9263,349.085 325.02,344.15 " fill="none" id="NavFooter-index.js" style="stroke: #A80036; stroke-width: 1.25;"/><polygon fill="#A80036" points="339.6688,336.9738,327.3662,337.4324,334.056,339.7231,331.7652,346.4129,339.6688,336.9738" style="stroke: #A80036; stroke-width: 1.25;"/><line style="stroke: #A80036; stroke-width: 1.25;" x1="334.056" x2="325.0756" y1="339.7231" y2="344.1225"/><polygon fill="#A80036" points="249.54,380.5288,258.4616,381.8149,263.0803,374.0742,254.1586,372.7881,249.54,380.5288" style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[7fa7784d4c4a9a9ace146e27c3757e01]
+link pageX to index.js--><path d="M254.1737,305 C254.1737,305 301.1588,305 323.2863,305 " fill="none" id="pageX-index.js" style="stroke: #A80036; stroke-width: 1.25;"/><polygon fill="#A80036" points="339.8063,305,328.5563,300,333.5563,305,328.5563,310,339.8063,305" style="stroke: #A80036; stroke-width: 1.25;"/><line style="stroke: #A80036; stroke-width: 1.25;" x1="333.5563" x2="323.5563" y1="305" y2="305"/><polygon fill="#A80036" points="239.1737,305,246.6737,310,254.1737,305,246.6737,300,239.1737,305" style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[23577c96bdd5a57862fc22babd2be5d3]
+@startuml
+skinparam classAttributeIconSize 0
+skinparam defaultFontSize 25
+
+left to right direction
+
+
+        artifact "Theme-switcher-Nuxt-TailwindCSS"{
+
+        artifact "Front end"{
+            file "NavBarre"{
+                     }
+
+            file "pageX"{
+                     }
+
+
+
+            file "NavFooter"{
+                     }
+}
+
+    node "store"{
+
+
+
+
+            file index.js {
+
+            }
+}
+}
+
+
+
+
+
+NavBarre *- -> index.js
+NavFooter *- -> index.js
+pageX *- -> index.js
+
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 12:02:15 CEST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.17
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
